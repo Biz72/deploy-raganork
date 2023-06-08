@@ -1,5 +1,5 @@
 {
-   name": "sheetS",
+   "name": "sheetS",
     "description": "WhtsApp public/user bot",
    "repository": "https://github.com/souravkl11/raganork-md",
     "website":   "https://raganork.ml",
@@ -82,7 +82,7 @@
             "value":"91,48"
         },
         "WARN": {
- tion": "Warn limit",
+ "action": "Warn limit",
            "required": false,
   alue":"2"
        },GUAGE": {
@@ -169,7 +169,7 @@
         "MODE": {
             "description": "Private or public",
         required": true,
-           "value"rivate"
+           "value"private"
         ,
 DO": {
             "description": "These numbers can control your bot. seerte with commas",
