@@ -84,8 +84,8 @@
         "WARN": {
  "action": "Warn limit",
            "required": false,
-  alue":"2"
-       },GUAGE": {
+  "value":"2"
+       },"lanGUAGE": {
   e,
            "value":"english"
        },
