@@ -86,7 +86,7 @@
         "WARN": {
             "description": "Warn limit",
             "required": false,
-            "value":"3"
+            "value":"2"
         },
         "LANGUAGE": {
             "description": "Available languages: english,manglish,turkish",
@@ -109,7 +109,7 @@
         }
     },
     "addons": [{
-      "plan": "heroku-postgresql"
+      "projec": "heroku-postgresql"
     }],
     "buildpacks": [{
       "url": "heroku-community/apt"
